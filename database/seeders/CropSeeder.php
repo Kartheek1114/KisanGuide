@@ -29,7 +29,7 @@ class CropSeeder extends Seeder
                 'soil_types' => ['Clayey', 'Loamy'],
                 'water_requirement' => 'High (Constant irrigation / Flooding)',
                 'harvest_days' => 120,
-                'image_url' => 'https://images.unsplash.com/photo-1587300003388-59208cc962cb?q=80&w=1200&auto=format&fit=crop',
+
             ],
             [
                 'name' => 'Wheat',
@@ -47,7 +47,7 @@ class CropSeeder extends Seeder
                 'soil_types' => ['Clay Loam', 'Sandy Loam'],
                 'water_requirement' => 'Moderate (4-6 timely irrigations)',
                 'harvest_days' => 130,
-                'image_url' => 'https://images.unsplash.com/photo-1521335629791-ce4aec67dd8f?q=80&w=1200&auto=format&fit=crop',
+
             ],
             [
                 'name' => 'Cotton',
@@ -65,7 +65,7 @@ class CropSeeder extends Seeder
                 'soil_types' => ['Black Soil', 'Alluvial Soil'],
                 'water_requirement' => 'Moderate (Sensitive to waterlogging)',
                 'harvest_days' => 180,
-                'image_url' => 'https://images.unsplash.com/photo-1501004318641-b39e6451bec6?q=80&w=1200&auto=format&fit=crop',
+
             ],
             [
                 'name' => 'Tomato',
@@ -83,7 +83,7 @@ class CropSeeder extends Seeder
                 'soil_types' => ['Sandy Loam', 'Loam'],
                 'water_requirement' => 'Moderate (Regular light watering)',
                 'harvest_days' => 85,
-                'image_url' => 'https://images.unsplash.com/photo-1582515073494-1e8b5c5d3be0?q=80&w=1200&auto=format&fit=crop',
+
             ],
             [
                 'name' => 'Maize',
@@ -101,7 +101,7 @@ class CropSeeder extends Seeder
                 'soil_types' => ['Loamy Soil', 'Alluvial Soil'],
                 'water_requirement' => 'Moderate (Sensitive to drought during flowering)',
                 'harvest_days' => 100,
-                'image_url' => 'https://images.unsplash.com/photo-1598462215875-84eeb7d4c6ec?q=80&w=1200&auto=format&fit=crop',
+
             ],
             [
                 'name' => 'Potato',
@@ -119,7 +119,7 @@ class CropSeeder extends Seeder
                 'soil_types' => ['Sandy Loam', 'Silt Loam'],
                 'water_requirement' => 'Moderate (Consistent moisture essential)',
                 'harvest_days' => 90,
-                'image_url' => 'https://images.unsplash.com/photo-1518085250887-5c0e1b7e31a2?q=80&w=1200&auto=format&fit=crop',
+
             ],
         ];
 
